@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:19:58.328888
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:19
 #+TITLE: 傳法正宗論
 #+PROPERTY: CBETA_ID T51n2080
 #+PROPERTY: ID KR6r0102
@@ -16,7 +16,7 @@
 ¶
 宋藤州東山沙門釋契嵩著¶
 
-第三篇
+* 第三篇
 :PROPERTIES:
 :head: 第三篇
 :END:
@@ -411,7 +411,7 @@
 多岐也。而後學之者愚陋。或妄評乎達磨祖¶
 師所謂得吾髓者。何其瀆亂夫智者之說耶。¶
 
-第四篇
+* 第四篇
 :PROPERTIES:
 :head: 第四篇
 :END:
